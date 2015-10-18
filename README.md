@@ -1,5 +1,4 @@
 # Android + Retrofit 2.0
-<h1>Demo with Retrofit 2.0</h1>
 
 Here are the slides for the demo:
 
