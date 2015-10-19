@@ -71,7 +71,7 @@ public interface APIService {
             @Body Post post
     );
 
-    @PUT("posts/{postId}")
+    @DELETE("posts/{postId}")
     Call<Post> deletePost(
             @Path("postId") int postId
     );
